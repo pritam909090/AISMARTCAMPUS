@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Campus – Student Assistant",
+  "description": "AI-powered college student assistant for timetable, notices, library, departments, faculty, facilities, exams, and student services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
